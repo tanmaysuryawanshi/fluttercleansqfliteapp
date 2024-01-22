@@ -1,4 +1,4 @@
-# flutterproductclean
+# Clean Architecture App
 
 A new Flutter project that used sqflite as database.  
 
